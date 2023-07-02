@@ -1,0 +1,13 @@
+<svg id="icon_info_graybasic" xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <style>
+            .cls-3{fill:#999}
+        </style>
+    </defs>
+    <g id="Ellipse_364" data-name="Ellipse 364" style="stroke:#666;fill:none">
+        <circle cx="8" cy="8" r="8" style="stroke:none"/>
+        <circle cx="8" cy="8" r="7.5" style="fill:none"/>
+    </g>
+    <path id="Union_78" data-name="Union 78" class="cls-3" d="M-1112 11806v-.715h1v-3.57h-1v-.715h3v4.285h1v.715z" transform="translate(1118 -11794)"/>
+    <path id="Rectangle_2765" data-name="Rectangle 2765" class="cls-3" transform="translate(7 4)" d="M0 0h2v2H0z"/>
+</svg>

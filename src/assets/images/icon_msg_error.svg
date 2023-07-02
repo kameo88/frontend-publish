@@ -1,0 +1,10 @@
+<svg id="icon_alert_error" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+    <defs>
+        <style>
+            .cls-2{fill:#f87272}
+        </style>
+    </defs>
+    <circle id="Ellipse_365" data-name="Ellipse 365" cx="13" cy="13" r="13" style="fill:#fff"/>
+    <path id="Rectangle_1522" data-name="Rectangle 1522" class="cls-2" transform="rotate(45 -1.45 23.986)" d="M0 0h2v12H0z"/>
+    <path id="Rectangle_1523" data-name="Rectangle 1523" class="cls-2" transform="rotate(135 5.55 11.985)" d="M0 0h2v12H0z"/>
+</svg>

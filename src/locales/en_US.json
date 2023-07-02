@@ -1,0 +1,6 @@
+{
+  "common" : {
+    "hello": "Hello. English",
+    "message": "hello i18n !! show~~"
+  }
+}

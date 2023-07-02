@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="btn_gnbmypage_normal" width="34" height="34" viewBox="0 0 34 34">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_2205" fill="#fff" stroke="#7272cb" d="M0 0H26V12H0z" transform="translate(4 18)"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:none}.cls-5,.cls-6{stroke:none}.cls-6{fill:#343434}
+        </style>
+    </defs>
+    <g id="icon" transform="translate(-1400 3)">
+        <g id="Polygon_61" class="cls-3">
+            <path d="M10.839 0a2 2 0 0 1 1.736 1.008l2.857 5a2 2 0 0 1 0 1.985l-2.857 5A2 2 0 0 1 10.839 14H5.161a2 2 0 0 1-1.736-1.008l-2.857-5a2 2 0 0 1 0-1.985l2.857-5A2 2 0 0 1 5.161 0z" class="cls-5" transform="translate(1410 16) rotate(-90)"/>
+            <path d="M5.16 2L2.305 7l2.857 5h5.678l2.857-5-2.857-5H5.161m0-2h5.678c.718 0 1.38.385 1.737 1.008l2.857 5c.351.615.351 1.37 0 1.984l-2.857 5C12.22 13.615 11.557 14 10.839 14H5.161c-.718 0-1.38-.385-1.737-1.008l-2.857-5c-.351-.615-.351-1.37 0-1.984l2.857-5C3.78.385 4.443 0 5.161 0z" class="cls-6" transform="translate(1410 16) rotate(-90)"/>
+        </g>
+        <g id="Mask_Group_127" clip-path="url(#clip-path)" transform="translate(1400 -2)">
+            <g id="Path_43425" class="cls-3">
+                <path d="M16.579 0L20 3.87v8.776l-3.421 2.769H3.421L0 12.111V3.87L3.421 0z" class="cls-5" transform="translate(7 19)"/>
+                <path d="M4.322 2L2 4.627v6.635l2.229 2.152H15.87L18 11.691V4.627L15.678 2H4.322m-.901-2h13.158L20 3.87v8.775l-3.42 2.77H3.42L0 12.11V3.87L3.42 0z" class="cls-6" transform="translate(7 19)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="icon_time_gray" xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <style>
+            .cls-2{fill:#343434}
+        </style>
+    </defs>
+    <g id="Ellipse_119" data-name="Ellipse 119" style="fill:#fff;stroke:#343434">
+        <circle cx="8" cy="8" r="8" style="stroke:none"/>
+        <circle cx="8" cy="8" r="7.5" style="fill:none"/>
+    </g>
+    <path id="Rectangle_210" data-name="Rectangle 210" class="cls-2" transform="translate(6.852 3.853)" d="M0 0h1v5H0z"/>
+    <path id="Rectangle_211" data-name="Rectangle 211" class="cls-2" transform="translate(6.852 7.853)" d="M0 0h4v1H0z"/>
+</svg>

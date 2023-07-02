@@ -1,0 +1,10 @@
+<svg id="icon_download_normal" xmlns="http://www.w3.org/2000/svg" width="28" height="28">
+    <defs>
+        <style>
+            .cls-2{fill:#111}
+        </style>
+    </defs>
+    <path id="Subtraction_36" data-name="Subtraction 36" class="cls-2" d="M22 9H0V0h1.293v8h19.412V0H22v9z" transform="translate(3.001 12.999)"/>
+    <path id="Union_75" data-name="Union 75" class="cls-2" d="M0 6h3V0h1v6h3l-3.5 4z" transform="translate(11 3.998)"/>
+    <path id="Rectangle_1286" data-name="Rectangle 1286" transform="translate(9 16)" style="fill:#ff5200" d="M0 0h11v2H0z"/>
+</svg>

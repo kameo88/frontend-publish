@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.h1-title{text-align: center;padding-top: 20px; }
+.h2-title, .h3-title{margin: 30px 0 10px;}
+.center{text-align: center;}
+.right{text-align: right;}
+.switch{padding: 10px 20px;text-align: right;}
+.guide-menu-list{display: flex;flex-direction: row;flex-wrap: wrap;table-layout: fixed;width: 100%;margin-bottom: 30px;background-color: #152888;}
+.guide-menu-list li{width: 16.666%;border: 1px solid #fff;border-width: 1px 0 0 1px;color: #fff;text-align: center;}
+.guide-menu-list a.menu{display: block;width: 100%;padding: 10px 5px;color: #fff;}
+.file-list{padding: 20px;}
+.guide-wrap{margin-bottom: 20px;padding: 0 20px;}
+.guide-group{margin:10px 0;}

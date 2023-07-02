@@ -1,0 +1,13 @@
+<svg id="icon_list_approvalman" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+    <defs>
+        <style>
+            .cls-2{fill:#666}
+        </style>
+    </defs>
+    <g id="user-data" transform="translate(-1.25 -.475)">
+        <path id="Path_49033" data-name="Path 49033" class="cls-2" d="M16.076 29.27H14.1v-3.1a2.923 2.923 0 0 0-2.963-2.877H7.188a2.923 2.923 0 0 0-2.963 2.877v3.1H2.25v-3.1a4.874 4.874 0 0 1 4.938-4.795h3.95a4.874 4.874 0 0 1 4.938 4.795z" transform="translate(-1 -8.324)"/>
+        <path id="Path_49034" data-name="Path 49034" class="cls-2" d="M9.295 9.793a2.877 2.877 0 1 1-2.877 2.877 2.877 2.877 0 0 1 2.877-2.877m0-1.918a4.795 4.795 0 1 0 4.795 4.795 4.795 4.795 0 0 0-4.795-4.795z" transform="translate(-1.332 -6.332)"/>
+        <circle id="Ellipse_623" data-name="Ellipse 623" cx="7.5" cy="7.5" r="7.5" transform="translate(12.25 10.475)" style="fill:#ff5200"/>
+        <path id="Path_49272" data-name="Path 49272" d="M24.992 29.344 22.65 27l-1.275 1.275 3.617 3.617 6.33-6.33-1.275-1.275z" transform="translate(-6.299 -10.166)" style="fill:#fff"/>
+    </g>
+</svg>

@@ -1,0 +1,79 @@
+0000000000000000000000000000000000000000 95c5dd8535402c321e594d13fb92cbdb46122ed9 kameo <kameo69@naver.com> 1629204503 +0900	clone: from http://172.23.45.6:10080/appuser/frontend-publish.git
+95c5dd8535402c321e594d13fb92cbdb46122ed9 29caa2397ad2187fdc57394f33da638b793c4aa4 kameo <kameo69@naver.com> 1632865244 +0900	pull --tags origin master: Fast-forward
+29caa2397ad2187fdc57394f33da638b793c4aa4 285e0504bd960d9d1936affde30c1af108c10ffd kameo <kameo69@naver.com> 1632901401 +0900	commit: 업무담당자 완료
+285e0504bd960d9d1936affde30c1af108c10ffd 95f178ffbe4c2d7444aa9d7d78235978f6538adf kameo <kameo69@naver.com> 1632906122 +0900	commit: 주문서 목록 진행중
+95f178ffbe4c2d7444aa9d7d78235978f6538adf 422740d64a0c3217ae19de0a999d6d3280d925d2 kameo <kameo69@naver.com> 1632982993 +0900	commit: 주문, 계약 현황 작업 완료
+422740d64a0c3217ae19de0a999d6d3280d925d2 04742327aa1b9170625554c3ae44e9a424c5934d kameo <kameo69@naver.com> 1632983167 +0900	commit: 버튼 위치 변경
+04742327aa1b9170625554c3ae44e9a424c5934d f8df05482094b10f79219488fb24267958dd8c81 kameo <kameo69@naver.com> 1632987086 +0900	commit: 소스상 버튼 순서 변경(웹접근성 고려)
+f8df05482094b10f79219488fb24267958dd8c81 38171873f78e19e7975864a75f203632e6f6a237 kameo <kameo69@naver.com> 1633049589 +0900	commit: 주문서 작업 중
+38171873f78e19e7975864a75f203632e6f6a237 43e1aa5a5a87272142d7d40e5a33a123f16d15c2 kameo <kameo69@naver.com> 1633394851 +0900	commit: 정보상품 개요 완료
+43e1aa5a5a87272142d7d40e5a33a123f16d15c2 606b512c5d0d34070e89d7a877a8d76499430881 kameo <kameo69@naver.com> 1633406966 +0900	commit: button name 변경
+606b512c5d0d34070e89d7a877a8d76499430881 ea8994501e3a299265c95077719b1faf963a5570 kameo <kameo69@naver.com> 1633423723 +0900	commit: 계약 목록 수정
+ea8994501e3a299265c95077719b1faf963a5570 898868e73f70038ea3bec59662fcb5a9a75c1fe7 kameo <kameo69@naver.com> 1633424214 +0900	commit: 리포트 신고 작업중
+898868e73f70038ea3bec59662fcb5a9a75c1fe7 deaa3b8116cd700336f4447d7d8fc4014936de65 kameo <kameo69@naver.com> 1633478884 +0900	commit: 리포트 신고 1차 작업
+deaa3b8116cd700336f4447d7d8fc4014936de65 d62b5b65254de83216dcb1b05974f8ea24899327 kameo <kameo69@naver.com> 1633481983 +0900	commit: update
+d62b5b65254de83216dcb1b05974f8ea24899327 301b11a97d00162aebcf248a3c6e377cf4ca5437 kameo <kameo69@naver.com> 1633484075 +0900	commit: 리포트신고 팝업 추가 - 완료
+301b11a97d00162aebcf248a3c6e377cf4ca5437 52c80b78a41dfbe1959dec116fcff002b43db40d kameo <kameo69@naver.com> 1633499095 +0900	commit: 사용자 리포트 현황 완료
+52c80b78a41dfbe1959dec116fcff002b43db40d bacca54fd969cf02e395d4c7a2075557d2d14363 kameo <kameo69@naver.com> 1633514155 +0900	commit: 사용자 리포트 상세 완료
+bacca54fd969cf02e395d4c7a2075557d2d14363 700ff5116637c4670008d314445a5996ee126377 kameo <kameo69@naver.com> 1633569179 +0900	commit: 사용자 리포트 상세 완료
+700ff5116637c4670008d314445a5996ee126377 3e7a35abb56fdfa7a4c55198eab74158e8ca4f7f kameo <kameo69@naver.com> 1633569928 +0900	commit: 리포트 정정 신고 & 주문서 기타 신고 완료
+3e7a35abb56fdfa7a4c55198eab74158e8ca4f7f 14504bd4d6b81a1de572c443bf34dadbb1f7a5fe kameo <kameo69@naver.com> 1633584494 +0900	commit: 기타신고현황 목록 완료
+14504bd4d6b81a1de572c443bf34dadbb1f7a5fe 2c2d451da06fc42d0b04c82eb8dee7ff0de73b2b kameo <kameo69@naver.com> 1633590162 +0900	commit: 계약상세 완료
+2c2d451da06fc42d0b04c82eb8dee7ff0de73b2b cac4773ce4939a519f6efcd2b016285e52c0b796 kameo <kameo69@naver.com> 1633590975 +0900	commit: 퍼블 목록 업데이트
+cac4773ce4939a519f6efcd2b016285e52c0b796 d696d6cab54098f9b03361f5270dab9491c32fb7 kameo <kameo69@naver.com> 1633599519 +0900	commit: 주문서 등록 2차 업로드
+d696d6cab54098f9b03361f5270dab9491c32fb7 f41a9ca39b62e891c51adef41e0906eb32e3089b kameo <kameo69@naver.com> 1633674724 +0900	commit: 주문서 등록 1008 업로드
+f41a9ca39b62e891c51adef41e0906eb32e3089b c12c2aaf0f853329b8b92c6b7a81127b469b40d4 kameo <kameo69@naver.com> 1633675433 +0900	commit: 리포트신고 내 상세내용 table 추가
+c12c2aaf0f853329b8b92c6b7a81127b469b40d4 792ff92069ad417c6dc4be20a8c875a80b527b0a kameo <kameo69@naver.com> 1633683757 +0900	commit: 주문서 등록의 주문서 정보 완료
+792ff92069ad417c6dc4be20a8c875a80b527b0a 39c9319711aadef3bf09fa558f32216719b13536 kameo <kameo69@naver.com> 1633684175 +0900	commit: 주문서 주소 항목 업데이트
+39c9319711aadef3bf09fa558f32216719b13536 22ba477e4e1b2e5408e1a51b3d655e2c99874662 kameo <kameo69@naver.com> 1634000796 +0900	commit: 주문서등록의 기타정보 완료
+22ba477e4e1b2e5408e1a51b3d655e2c99874662 b8fec2e2a69af45d77cc15a970e11597591edd99 kameo <kameo69@naver.com> 1634001398 +0900	commit: 주문서등록 기술대리인 동의 추가
+b8fec2e2a69af45d77cc15a970e11597591edd99 84ebdc32e44f5462026e0f5cf4c2c7fb3ea7531c kameo <kameo69@naver.com> 1634016757 +0900	commit: 주문서 상세 세미 완료
+84ebdc32e44f5462026e0f5cf4c2c7fb3ea7531c 5bf152b3798cf3b50e8d088648ea51f657869175 kameo <kameo69@naver.com> 1634017218 +0900	commit: icon update
+5bf152b3798cf3b50e8d088648ea51f657869175 021a1bf0831833cc7ccea5203c7d0fd092ff187c kameo <kameo69@naver.com> 1634022329 +0900	commit: 주문서 등록 상품요금 수정
+021a1bf0831833cc7ccea5203c7d0fd092ff187c 982cd93ba3d429b9482fb79da8044b1635267d20 kameo <kameo69@naver.com> 1634025914 +0900	commit: 주문서 아이콘 업데이트
+982cd93ba3d429b9482fb79da8044b1635267d20 99073b89f039e1a4fbd46215deaae541bae26a58 kameo <kameo69@naver.com> 1634027313 +0900	commit: 주문서 css 업데이트
+99073b89f039e1a4fbd46215deaae541bae26a58 730dc71e8d1633c61c527c74079ad5045a9b0332 kameo <kameo69@naver.com> 1634027488 +0900	commit: 주문서 이력 관련 업데이트
+730dc71e8d1633c61c527c74079ad5045a9b0332 ddada26722860bc6a1f387b13fb86a0e06b64bef kameo <kameo69@naver.com> 1634029297 +0900	commit: 주문서 error msg처리
+ddada26722860bc6a1f387b13fb86a0e06b64bef fdec2b7d24e97a92ad641e9d3e27bc27ca472b95 kameo <kameo69@naver.com> 1634080181 +0900	commit: 주문서 변경 이력 팝업 업데이트
+fdec2b7d24e97a92ad641e9d3e27bc27ca472b95 575266a8447bb33fe9920417bdfaacfb311ff25c kameo <kameo69@naver.com> 1634114969 +0900	commit: error page 완료
+575266a8447bb33fe9920417bdfaacfb311ff25c 7a34ba5c8a4723fa81a5a9a745334a747df55404 kameo <kameo69@naver.com> 1634165306 +0900	commit: 리포트 상세 총액 표시 추가
+7a34ba5c8a4723fa81a5a9a745334a747df55404 db952a14a6719a174f00ea862a01f02dc62ca6c0 kameo <kameo69@naver.com> 1634166304 +0900	commit: css update
+db952a14a6719a174f00ea862a01f02dc62ca6c0 255b2e7a2c8c757511ef3dc5af6e09ea2a6c6b2d kameo <kameo69@naver.com> 1634202124 +0900	commit: main 작업중
+255b2e7a2c8c757511ef3dc5af6e09ea2a6c6b2d 1ce0953731cb4ca0f61ff0e1ffd76aef3cd3c980 kameo <kameo69@naver.com> 1634273993 +0900	commit: main 1차 작업
+1ce0953731cb4ca0f61ff0e1ffd76aef3cd3c980 844cb145df08f45926d485c9fae65126151a897e kameo <kameo69@naver.com> 1634275211 +0900	commit: error page 추가
+844cb145df08f45926d485c9fae65126151a897e e5489ea344e28d0003275f051e62c6ede4bfe806 kameo <kameo69@naver.com> 1634287955 +0900	commit: main contents 추가
+e5489ea344e28d0003275f051e62c6ede4bfe806 28568ea05d24d5795b38cb261e8b819a8e4405de kameo <kameo69@naver.com> 1635120740 +0900	pull --tags origin master: Fast-forward
+28568ea05d24d5795b38cb261e8b819a8e4405de bf7c6b7b2bcac2965cbd8dbe11beb14365ef3ab8 kameo <kameo69@naver.com> 1635226605 +0900	commit: 정보상품 contents 작업완료
+bf7c6b7b2bcac2965cbd8dbe11beb14365ef3ab8 26bd9d4e2fb5ef68806f98d594739786143de0b1 kameo <kameo69@naver.com> 1635227306 +0900	commit: 퍼블 목록 업데이트
+26bd9d4e2fb5ef68806f98d594739786143de0b1 629cf1b93dce2d2715b2c6ea2eba447e414ba5de kameo <kameo69@naver.com> 1635237458 +0900	commit: 주문서 개요 및 오시는 길 작업 완료
+629cf1b93dce2d2715b2c6ea2eba447e414ba5de 1dee90bf6a3d46e6407d5d7b0cb6c97f0eb92335 kameo <kameo69@naver.com> 1635238841 +0900	commit: 홈페이지 이용안내 작업완료
+1dee90bf6a3d46e6407d5d7b0cb6c97f0eb92335 5476fd812b1082a2c6791416dee097264b9f85ae kameo <kameo69@naver.com> 1635321357 +0900	commit: 리포트 개요 작업완료
+5476fd812b1082a2c6791416dee097264b9f85ae 6f9422e6a85a052e05f87bb17227425fbc0f0f16 kameo <kameo69@naver.com> 1635321652 +0900	commit: 퍼블 목록 업데이트
+6f9422e6a85a052e05f87bb17227425fbc0f0f16 7943607d02b9e4c665d5f17bf96373af87b63d80 kameo <kameo69@naver.com> 1635397367 +0900	commit: 기타신고변경 반려 사유 업데이트
+7943607d02b9e4c665d5f17bf96373af87b63d80 09cd536d5d85266c8603c39ab047613d7233e152 kameo <kameo69@naver.com> 1635397699 +0900	commit: visual image 업데이트
+09cd536d5d85266c8603c39ab047613d7233e152 74950ab351e6b14b57e474b4ea411f7fe4a3a658 kameo <kameo69@naver.com> 1635414481 +0900	commit: krx 전자결재 목록 상세 작업완료
+74950ab351e6b14b57e474b4ea411f7fe4a3a658 be47a060234ccbae328e94aa98c7ce34a8fabb6f kameo <kameo69@naver.com> 1635472248 +0900	commit: 리포트 미신고 허용 안내-작업 완료
+be47a060234ccbae328e94aa98c7ce34a8fabb6f 78e6f3396b4d12aebf6132638b1451cbc12f4a31 kameo <kameo69@naver.com> 1635473075 +0900	commit: update
+78e6f3396b4d12aebf6132638b1451cbc12f4a31 7d768fe542947726b25d74914c4da2c5f369b84c kameo <kameo69@naver.com> 1636465727 +0900	pull --tags origin master: Fast-forward
+7d768fe542947726b25d74914c4da2c5f369b84c 9ad5bc9f280a89eb015d098eb3bcabb15b975bdf kameo <kameo69@naver.com> 1637501553 +0900	pull --tags origin master: Fast-forward
+9ad5bc9f280a89eb015d098eb3bcabb15b975bdf 2017aab2b286d54b8647a5e0a77547e9bd747d5b kameo <kameo69@naver.com> 1638709485 +0900	pull --tags origin master: Fast-forward
+2017aab2b286d54b8647a5e0a77547e9bd747d5b 1d4f978dab2a21d79446740df21dcef4224e9ff5 kameo <kameo69@naver.com> 1638969182 +0900	pull --tags origin master: Fast-forward
+1d4f978dab2a21d79446740df21dcef4224e9ff5 3484c1b484c47ae5450413dc7ae4d91109b5c31a kameo <kameo69@naver.com> 1639395013 +0900	pull --tags origin master: Fast-forward
+3484c1b484c47ae5450413dc7ae4d91109b5c31a 0713fdc691a8688d759d1846f1c02567cc5b2fa9 kameo <kameo69@naver.com> 1639893512 +0900	pull --tags origin master: Fast-forward
+0713fdc691a8688d759d1846f1c02567cc5b2fa9 bc4c59fec2a67624fdd24d5671e30a692bcd374b kameo <kameo69@naver.com> 1639903968 +0900	commit: 이용약관 및 개인정보 작업 완료
+bc4c59fec2a67624fdd24d5671e30a692bcd374b 0832eb5df9b9bedeea93bf083b695f5eede4b314 kameo <kameo69@naver.com> 1640500744 +0900	pull --tags origin master: Fast-forward
+0832eb5df9b9bedeea93bf083b695f5eede4b314 ccad52341ed9d6d4ffc29c3d5f10abb6f7b14b65 kameo <kameo69@naver.com> 1641101432 +0900	pull --tags origin master: Fast-forward
+ccad52341ed9d6d4ffc29c3d5f10abb6f7b14b65 647b5f866ba0b75e32762a7aec5df273c808305d kameo <kameo69@naver.com> 1641211614 +0900	pull --tags origin master: Fast-forward
+647b5f866ba0b75e32762a7aec5df273c808305d 967ea83b32b81749cfaf0c8d8b6e77d8304d186c kameo <kameo69@naver.com> 1641707664 +0900	pull --tags origin master: Fast-forward
+967ea83b32b81749cfaf0c8d8b6e77d8304d186c 4fb58e57f730aebe974937d4bacb7554989232a6 kameo <kameo69@naver.com> 1641818477 +0900	pull --tags origin master: Fast-forward
+4fb58e57f730aebe974937d4bacb7554989232a6 74470a71bccfce2b01e9dda63dfbb4072e914f01 kameo <kameo69@naver.com> 1641996931 +0900	pull --tags origin master: Fast-forward
+74470a71bccfce2b01e9dda63dfbb4072e914f01 519ff331723e64d697c06201b8abd3f072cb6c75 kameo <kameo69@naver.com> 1642125159 +0900	pull --tags origin master: Fast-forward
+519ff331723e64d697c06201b8abd3f072cb6c75 0645d7542602421a5b445ab1643a61054a79846c kameo <kameo69@naver.com> 1642137045 +0900	commit: 계약 문의 정렬 수정
+0645d7542602421a5b445ab1643a61054a79846c d66f5250a65966f1a49786a3a359dd1b5f9a967b kameo <kameo69@naver.com> 1642138632 +0900	commit: krx 결재 인쇄 css 수정
+d66f5250a65966f1a49786a3a359dd1b5f9a967b e9481574c2fcba93fc3042b185baa6c145cf5431 kameo <kameo69@naver.com> 1642139766 +0900	commit: download white color 추가
+e9481574c2fcba93fc3042b185baa6c145cf5431 47164938435281ba15969bdf924aad0071d68b09 kameo <kameo69@naver.com> 1642165996 +0900	commit: 주문서 인쇄 css table line 수정
+47164938435281ba15969bdf924aad0071d68b09 9209f99ded9f1989167aa093498daa6ac6f3c87c kameo <kameo69@naver.com> 1642756391 +0900	commit: w450 추가
+9209f99ded9f1989167aa093498daa6ac6f3c87c ccd10b604b57d09623e0fefd6c1fc2d3bc2f1a6d kameo <kameo69@naver.com> 1642756531 +0900	commit: w480추가
+ccd10b604b57d09623e0fefd6c1fc2d3bc2f1a6d e8f089be975380ddfefbf46edc658305c339aebd kameo <kameo69@naver.com> 1643896142 +0900	commit: 임시정지 팝업 수정본
+e8f089be975380ddfefbf46edc658305c339aebd 0d26994fac75db62032fbdc61ade05ff6af05ccf kameo <kameo69@naver.com> 1643974862 +0900	commit: 임시정지 신청서 팝업 update
+0d26994fac75db62032fbdc61ade05ff6af05ccf 65e65fa86920d82f4e48d8e9592bc4f6fc7868ec kameo <kameo.sj@gmail.com> 1647057996 +0900	commit: class "bd-r" 추가

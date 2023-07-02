@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+    <defs>
+        <style>
+            .cls-3{fill:#e32f00}
+        </style>
+    </defs>
+    <g id="icon_dataadd_s__noraml" style="opacity:.8">
+        <path id="Rectangle_2643" data-name="Rectangle 2643" class="cls-3" transform="translate(5 2)" d="M0 0h2v8H0z"/>
+        <path id="Rectangle_2644" data-name="Rectangle 2644" class="cls-3" transform="rotate(90 2.5 7.5)" d="M0 0h2v8H0z"/>
+    </g>
+</svg>

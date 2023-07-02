@@ -1,0 +1,16 @@
+<svg id="button_datadelete_pressed" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #0f44c1;
+      }
+    </style>
+  </defs>
+  <rect id="hit" class="cls-1" width="12" height="12"/>
+  <rect id="Rectangle_2595" data-name="Rectangle 2595" class="cls-2" width="10" height="2" transform="translate(1 5)"/>
+</svg>

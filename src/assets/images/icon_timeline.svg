@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15">
+    <g style="fill:#fff;stroke:#ff9d6e">
+        <circle cx="7.5" cy="7.5" r="7.5" style="stroke:none"/>
+        <circle cx="7.5" cy="7.5" r="7" style="fill:none"/>
+    </g>
+    <circle data-name="Ellipse 360" cx="2.5" cy="2.5" r="2.5" transform="translate(5 5)" style="fill:#ff5200"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg id="icon_contactadd_normal" xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Union_73" data-name="Union 73" d="M7614 10082v-16h9v9h3v7z" transform="translate(-7614 -10066)" style="fill:#fff;stroke:#707070"/>
+        </clipPath>
+        <style>
+            .cls-7{fill:none}.cls-5{fill:#e32f00}.cls-6{stroke:none}
+        </style>
+    </defs>
+    <g id="Mask_Group_128" data-name="Mask Group 128" style="clip-path:url(#clip-path)">
+        <g id="Rectangle_2647" data-name="Rectangle 2647" style="stroke:#e32f00;fill:none">
+            <path class="cls-6" d="M0 0h12v16H0z"/>
+            <path class="cls-7" d="M.5.5h11v15H.5z"/>
+        </g>
+    </g>
+    <circle id="Ellipse_486" data-name="Ellipse 486" class="cls-5" cx="1" cy="1" r="1" transform="translate(5 11)"/>
+    <path id="Union_74" data-name="Union 74" class="cls-5" d="M7616 10071v-2h-2v-1h2v-2h1v2h2v1h-2v2z" transform="translate(-7606 -10064)"/>
+</svg>

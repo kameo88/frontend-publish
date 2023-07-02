@@ -1,0 +1,17 @@
+<svg id="icon_list_close" xmlns="http://www.w3.org/2000/svg" width="26" height="26">
+    <defs>
+        <style>
+            .cls-2{fill:#ff5200}.cls-3{fill:#666}
+        </style>
+    </defs>
+    <g id="unlink" transform="translate(-.27 -.271)">
+        <path id="Path_49038" data-name="Path 49038" class="cls-2" d="M4.032 5.144 5.14 4.035l2.676 2.676-1.108 1.108z" transform="translate(-.541 -.542)"/>
+        <path id="Path_49039" data-name="Path 49039" class="cls-2" d="m26.529 27.633 1.109-1.108 2.675 2.675-1.113 1.109z" transform="translate(-7.37 -7.369)"/>
+        <path id="Path_49040" data-name="Path 49040" class="cls-2" d="M12.375 2.25h1.567v3.134h-1.567z" transform="translate(-3.074)"/>
+        <path id="Path_49041" data-name="Path 49041" class="cls-2" d="M2.25 12.375h3.134v1.567H2.25z" transform="translate(0 -3.074)"/>
+        <path id="Path_49042" data-name="Path 49042" class="cls-2" d="M29.25 21.375h3.134v1.567H29.25z" transform="translate(-8.196 -5.806)"/>
+        <path id="Path_49043" data-name="Path 49043" class="cls-2" d="M21.375 29.25h1.567v3.134h-1.567z" transform="translate(-5.806 -8.196)"/>
+        <path id="Path_49044" data-name="Path 49044" class="cls-3" d="M14.351 21.289 11.444 24.2a3.135 3.135 0 1 1-4.434-4.43l2.915-2.915-1.113-1.105-2.907 2.915A4.686 4.686 0 0 0 9.2 26.719a4.756 4.756 0 0 0 3.385-1.41l2.879-2.909z" transform="translate(-.678 -4.098)"/>
+        <path id="Path_49045" data-name="Path 49045" class="cls-3" d="m16.855 9.929 2.915-2.915a3.135 3.135 0 1 1 4.43 4.435l-2.915 2.915 1.115 1.105 2.907-2.915A4.686 4.686 0 0 0 22.018 4.5a4.756 4.756 0 0 0-3.385 1.41L15.75 8.817z" transform="translate(-4.098 -.683)"/>
+    </g>
+</svg>

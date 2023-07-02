@@ -1,0 +1,13 @@
+<svg id="mainicon_time" xmlns="http://www.w3.org/2000/svg" width="15" height="15">
+    <defs>
+        <style>
+            .cls-2{fill:#bec0d1}
+        </style>
+    </defs>
+    <g id="Ellipse_119" data-name="Ellipse 119" style="fill:#fff;stroke:#bec0d1">
+        <circle cx="7.5" cy="7.5" r="7.5" style="stroke:none"/>
+        <circle cx="7.5" cy="7.5" r="7" style="fill:none"/>
+    </g>
+    <path id="Rectangle_210" data-name="Rectangle 210" class="cls-2" transform="translate(6.853 3.854)" d="M0 0h1v5H0z"/>
+    <path id="Rectangle_211" data-name="Rectangle 211" class="cls-2" transform="translate(6.853 7.854)" d="M0 0h4v1H0z"/>
+</svg>

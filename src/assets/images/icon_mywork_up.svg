@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+    <g data-name="mainicon_myworkarrow">
+        <g data-name="Polygon 1" style="fill:transparent">
+            <path d="M21.679 27.5H10.32a3.508 3.508 0 0 1-3.039-1.764l-5.714-10a3.514 3.514 0 0 1 0-3.472l5.714-10A3.508 3.508 0 0 1 10.322.5h11.357c1.253 0 2.417.676 3.039 1.764l5.714 10a3.514 3.514 0 0 1 0 3.472l-5.714 10a3.508 3.508 0 0 1-3.04 1.764z" style="stroke:none" transform="rotate(90 15 15)"/>
+            <path d="M10.321 1c-1.074 0-2.072.58-2.604 1.512l-5.715 10a3.012 3.012 0 0 0 0 2.976l5.715 10A3.007 3.007 0 0 0 10.32 27H21.68c1.074 0 2.072-.58 2.604-1.512l5.715-10a3.012 3.012 0 0 0 0-2.976l-5.715-10A3.007 3.007 0 0 0 21.68 1H10.32m0-1H21.68a4 4 0 0 1 3.473 2.015l5.714 10a4 4 0 0 1 0 3.97l-5.714 10A4 4 0 0 1 21.679 28H10.32a4 4 0 0 1-3.473-2.015l-5.714-10a4 4 0 0 1 0-3.97l5.714-10A4 4 0 0 1 10.321 0z" style="fill:#fff;stroke:none" transform="rotate(90 15 15)"/>
+        </g>
+        <path data-name="Path 141" d="m0 0 5.677 5.677L0 11.354" transform="rotate(-90 14.732 4.182)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-width:2px"/>
+    </g>
+</svg>

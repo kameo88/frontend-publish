@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <style>
+            .cls-3{fill:none}.cls-4{fill:#121212}.cls-5,.cls-6{stroke:none}.cls-6{fill:#121212}
+        </style>
+    </defs>
+    <g id="icon_infoinput_normal" style="opacity:.8">
+        <g id="Path_48719" data-name="Path 48719" class="cls-3">
+            <path class="cls-5" d="M0 0h13v3H0z" transform="rotate(135 5.902 4.634)"/>
+            <path class="cls-6" d="M1 1v1h11V1H1M0 0h13v3H0V0z" transform="rotate(135 5.902 4.634)"/>
+        </g>
+        <g id="Path_48720" data-name="Path 48720" class="cls-3">
+            <path class="cls-5" d="M0 0h3v3H0z" transform="rotate(135 5.902 4.634)"/>
+            <path class="cls-6" d="M1 1v1h1V1H1M0 0h3v3H0V0z" transform="rotate(135 5.902 4.634)"/>
+        </g>
+        <path id="Polygon_65" data-name="Polygon 65" class="cls-4" d="M1.5 0 3 2H0z" transform="rotate(-135 4.364 6.618)"/>
+        <path id="Rectangle_2783" data-name="Rectangle 2783" class="cls-4" transform="translate(7 12)" d="M0 0h4v1H0z"/>
+        <path id="Rectangle_2784" data-name="Rectangle 2784" class="cls-4" transform="translate(12 12)" d="M0 0h4v1H0z"/>
+    </g>
+</svg>

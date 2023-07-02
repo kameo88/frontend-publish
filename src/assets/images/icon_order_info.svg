@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #ff5200;
+      }
+    </style>
+  </defs>
+  <g id="img_title_receive" transform="translate(-2.25 1.375)">
+    <rect id="Rectangle_2594" data-name="Rectangle 2594" class="cls-1" width="40" height="40" transform="translate(2.25 -1.375)"/>
+    <path id="Path_48702" data-name="Path 48702" class="cls-2" d="M20.25,28.125A2.25,2.25,0,1,1,18,25.875,2.25,2.25,0,0,1,20.25,28.125Z" transform="translate(4 1)"/>
+    <path id="Path_48703" data-name="Path 48703" class="cls-2" d="M11.779,21.637l1.591,1.59a6.715,6.715,0,0,1,9.251-.01l1.59-1.59a8.958,8.958,0,0,0-12.431.011Z" transform="translate(4 1)"/>
+    <path id="Path_48704" data-name="Path 48704" class="cls-2" d="M7.008,16.867,8.6,18.457a13.449,13.449,0,0,1,18.792-.011l1.59-1.59a15.7,15.7,0,0,0-21.972.011Z" transform="translate(4 1)"/>
+    <path id="Path_48705" data-name="Path 48705" class="cls-2" d="M33.75,12.084a22.433,22.433,0,0,0-31.5,0v.026l1.579,1.579a20.176,20.176,0,0,1,28.329-.011l1.592-1.592Z" transform="translate(4 1)"/>
+  </g>
+</svg>

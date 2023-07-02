@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40">
+    <defs>
+        <style>
+            .cls-3{fill:#fff}.cls-2{fill:#ff5200}.cls-3{stroke:#ff5200}.cls-4{stroke:none}.cls-5{fill:none}
+        </style>
+    </defs>
+    <g id="img_title_fare" transform="translate(-180 -540)">
+        <g id="carbon" transform="translate(181.5 541.667)">
+            <path id="Path_49200" data-name="Path 49200" class="cls-2" d="M16.363 37.342a1.25 1.25 0 0 1-.616-.162L5.133 31.167a1.249 1.249 0 0 1-.633-1.086V17.594a1.249 1.249 0 0 1 .633-1.087L15.747 10.5a1.25 1.25 0 0 1 1.231 0l10.614 6.012a1.249 1.249 0 0 1 .633 1.087v12.482a1.249 1.249 0 0 1-.633 1.087L16.978 37.18a1.25 1.25 0 0 1-.616.162zM7 29.353l9.365 5.3 9.365-5.3V18.322l-9.365-5.3L7 18.321z" transform="translate(-1.076 -.339)"/>
+            <path id="Path_49201" data-name="Path 49201" class="cls-2" d="M33.787 21.081h-2.5V9.322l-9.365-5.3-10 5.663-1.227-2.178L21.309 1.5a1.25 1.25 0 0 1 1.231 0l10.614 6.007a1.249 1.249 0 0 1 .633 1.087z" transform="translate(-.395 -1.328)"/>
+            <path id="Path_49202" data-name="Path 49202" class="cls-2" d="m7.705-2.878 1.04-5.046h2.043L8.767 0H6.995l-1.5-4.988L3.992 0H2.227L.205-7.925h2.044l1.032 5.039 1.45-5.039h1.531z" transform="translate(9.5 28.333)"/>
+            <g id="Rectangle_2815" data-name="Rectangle 2815" class="cls-3">
+                <path class="cls-4" d="M0 0h3v1.5H0z" transform="translate(18.5 22.333)"/>
+                <path class="cls-5" d="M.5.5h2V1h-2z" transform="translate(18.5 22.333)"/>
+            </g>
+            <g id="Rectangle_2816" data-name="Rectangle 2816" class="cls-3">
+                <path class="cls-4" d="M0 0h3v1.5H0z" transform="translate(8.5 22.333)"/>
+                <path class="cls-5" d="M.5.5h2V1h-2z" transform="translate(8.5 22.333)"/>
+            </g>
+        </g>
+    </g>
+</svg>

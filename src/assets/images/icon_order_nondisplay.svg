@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40">
+    <defs>
+        <style>
+            .cls-3{fill:#fff}.cls-2,.cls-6{fill:none}.cls-2,.cls-3{stroke:#ff5200}.cls-2{stroke-width:2px}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="img_title_nondisplay" transform="translate(-180 -540)">
+        <path id="Path_49022" data-name="Path 49022" class="cls-2" d="m202.337 578.452-17.639-.087v-22.913h30v9.369" transform="translate(-3.697 -6.452)"/>
+        <g id="Rectangle_2781" data-name="Rectangle 2781" class="cls-3">
+            <path class="cls-5" d="M0 0h17v2H0z" transform="translate(184 554)"/>
+            <path class="cls-6" d="M.5.5h16v1H.5z" transform="translate(184 554)"/>
+        </g>
+        <g id="Rectangle_2784" data-name="Rectangle 2784" class="cls-3">
+            <path class="cls-5" d="M0 0h9v2H0z" transform="translate(184 558)"/>
+            <path class="cls-6" d="M.5.5h8v1h-8z" transform="translate(184 558)"/>
+        </g>
+        <g id="Ellipse_520" data-name="Ellipse 520" transform="translate(196 556)" style="stroke-width:2px;stroke:#ff5200;fill:#fff">
+            <circle class="cls-5" cx="11" cy="11" r="11"/>
+            <circle class="cls-6" cx="11" cy="11" r="10"/>
+        </g>
+        <path id="Path_49023" data-name="Path 49023" class="cls-2" d="M207.535 561.2v6.517l-3.619 3.406"/>
+    </g>
+</svg>

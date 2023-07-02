@@ -1,0 +1,22 @@
+<svg id="icon_list_approvalday" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-3{fill:#707070}.cls-6{stroke:none}.cls-7{fill:none}
+        </style>
+    </defs>
+    <path id="hit" class="cls-1" d="M0 0h26v26H0z"/>
+    <g id="Group_3758" data-name="Group 3758" transform="translate(-11 -7)">
+        <g id="Rectangle_2855" data-name="Rectangle 2855" style="stroke-width:2px;stroke:#707070;fill:#fff">
+            <path class="cls-6" d="M0 0h23v20H0z" transform="translate(11 9)"/>
+            <path class="cls-7" d="M1 1h21v18H1z" transform="translate(11 9)"/>
+        </g>
+        <path id="Rectangle_2856" data-name="Rectangle 2856" class="cls-3" transform="translate(15 7)" d="M0 0h3v6H0z"/>
+        <path id="Rectangle_2857" data-name="Rectangle 2857" class="cls-3" transform="translate(27 7)" d="M0 0h3v6H0z"/>
+        <g id="Rectangle_2858" data-name="Rectangle 2858" style="stroke:#707070;fill:#fff">
+            <path class="cls-6" d="M0 0h21v2H0z" transform="translate(13 15)"/>
+            <path class="cls-7" d="M.5.5h20v1H.5z" transform="translate(13 15)"/>
+        </g>
+    </g>
+    <circle id="Ellipse_626" data-name="Ellipse 626" cx="8.5" cy="8.5" r="8.5" transform="translate(9 9)" style="fill:#ff5200"/>
+    <path id="Path_49273" data-name="Path 49273" class="cls-1" d="m25.228 29.674-2.5-2.5-1.358 1.358 3.853 3.853 6.743-6.743-1.358-1.358z" transform="translate(-8.971 -10.39)"/>
+</svg>

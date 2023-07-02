@@ -1,0 +1,12 @@
+<svg id="mainicon_contract_hover" xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+    <defs>
+        <style>
+            .cls-2{fill:#ff5200}
+        </style>
+    </defs>
+    <path id="Path_44580" data-name="Path 44580" class="cls-2" d="m31.383 21.216-2.929-2.929a.976.976 0 0 0-1.381 0L18 27.359v4.31h4.31l9.074-9.069a.976.976 0 0 0 0-1.381zm-9.882 8.5h-1.548v-1.548l4.882-4.882 1.548 1.548zm6.263-6.263-1.548-1.548 1.548-1.548 1.548 1.548z" transform="translate(-2.284 -1.938)"/>
+    <path id="Path_44581" data-name="Path 44581" class="cls-2" d="M20.25 19.655V15.75h1.95v3.905z" transform="translate(-4.581 .359)"/>
+    <path id="Path_44582" data-name="Path 44582" class="cls-2" d="M15.75 19.358V13.5h1.95v5.858z" transform="translate(-3.986 .657)"/>
+    <path id="Path_44583" data-name="Path 44583" class="cls-2" d="M11.25 18.764V9h1.95v9.764z" transform="translate(-3.392 1.251)"/>
+    <path id="Path_44584" data-name="Path 44584" class="cls-2" d="M12.311 29.588H6.453A1.954 1.954 0 0 1 4.5 27.636V4.2a1.954 1.954 0 0 1 1.953-1.95h15.622a1.954 1.954 0 0 1 1.952 1.95v9.764h-1.952V4.2H6.453v23.436h5.858z" transform="translate(-1.5 .144)"/>
+</svg>

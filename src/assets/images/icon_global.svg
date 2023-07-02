@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon_global" width="34" height="34" viewBox="0 0 34 34">
+    <defs>
+        <style>
+            .cls-4{fill:#343434}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="icon" transform="translate(5 3)">
+        <g id="Polygon_81" fill="none">
+            <path d="M19.851 0a2 2 0 0 1 1.728.992l5.833 10a2 2 0 0 1 0 2.015l-5.833 10a2 2 0 0 1-1.728.993H8.149a2 2 0 0 1-1.728-.992l-5.833-10a2 2 0 0 1 0-2.015l5.833-10A2 2 0 0 1 8.149 0z" class="cls-5" transform="translate(0 28) rotate(-90)"/>
+            <path fill="#343434" d="M8.149 2L2.315 12 8.15 22H19.85l5.834-10L19.85 2H8.15m0-2H19.85c.712 0 1.37.378 1.728.992l5.833 10c.363.623.363 1.393 0 2.016l-5.833 10c-.359.614-1.016.992-1.728.992H8.15c-.712 0-1.37-.378-1.728-.992l-5.833-10c-.363-.623-.363-1.393 0-2.016l5.833-10C6.78.378 7.437 0 8.15 0z" transform="translate(0 28) rotate(-90)"/>
+        </g>
+        <g id="Ellipse_408" fill="none" stroke="#343434" stroke-width="2px" transform="translate(6.608 1.383)">
+            <ellipse cx="5.495" cy="13.022" class="cls-5" rx="5.495" ry="13.022"/>
+            <ellipse cx="5.495" cy="13.022" rx="4.495" ry="12.022"/>
+        </g>
+        <path id="Rectangle_30" d="M0 0H22V2H0z" class="cls-4" transform="translate(1 13.857)"/>
+        <path id="Rectangle_32" d="M0 0H24V2H0z" class="cls-4" transform="translate(11 26) rotate(-90)"/>
+    </g>
+</svg>

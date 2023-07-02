@@ -1,0 +1,16 @@
+<svg id="button_dataadd_pressed" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #0f44c1;
+      }
+    </style>
+  </defs>
+  <rect id="hit" class="cls-1" width="12" height="12"/>
+  <path id="Union_53" data-name="Union 53" class="cls-2" d="M4,10V6.167H0v-2H4V0H6V4.167h4v2H6V10Z" transform="translate(1 1)"/>
+</svg>

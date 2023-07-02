@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="btn_alertclose_normal" width="26" height="26" viewBox="0 0 26 26">
+    <defs>
+        <style>
+            .cls-2{fill:#fff}
+        </style>
+    </defs>
+    <path id="Rectangle_149" d="M0 0H22V1H0z" class="cls-2" transform="translate(5.707 5) rotate(45)"/>
+    <path id="Rectangle_150" d="M0 0H22V1H0z" class="cls-2" transform="translate(21.263 5.707) rotate(135)"/>
+</svg>

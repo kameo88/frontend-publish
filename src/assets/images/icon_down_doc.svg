@@ -1,0 +1,13 @@
+<svg id="icon_exceldown_normal" xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <style>
+            .cls-2{fill:#111}
+        </style>
+    </defs>
+    <g id="iocn_excel_down">
+        <path id="Subtraction_36" data-name="Subtraction 36" class="cls-2" d="M5933-769h-15v-9h1v8h13v-8h1v9z" transform="translate(-5917 783)"/>
+        <path id="Rectangle_1284" data-name="Rectangle 1284" class="cls-2" transform="translate(8 1)" d="M0 0h1v7H0z"/>
+        <path id="Polygon_48" data-name="Polygon 48" class="cls-2" d="M3.5 0 7 4H0z" transform="rotate(180 6 4.5)"/>
+        <path id="Rectangle_1286" data-name="Rectangle 1286" class="cls-2" transform="translate(5 10)" d="M0 0h7v1H0z"/>
+    </g>
+</svg>

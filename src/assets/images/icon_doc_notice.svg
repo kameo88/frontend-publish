@@ -1,0 +1,18 @@
+<svg id="icon_noticedocument" xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <style>
+            .cls-6{fill:none}.cls-4{fill:#121212}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="Rectangle_2527" data-name="Rectangle 2527" style="fill:#e8e8e8;stroke:#111">
+        <path class="cls-5" d="M0 0h13v14H0z"/>
+        <path class="cls-6" d="M.5.5h12v13H.5z"/>
+    </g>
+    <g id="Rectangle_2528" data-name="Rectangle 2528" style="stroke:#121212;fill:none">
+        <path class="cls-5" d="M0 0h4v4H0z" transform="translate(2 2)"/>
+        <path class="cls-6" d="M.5.5h3v3h-3z" transform="translate(2 2)"/>
+    </g>
+    <path id="Rectangle_2529" data-name="Rectangle 2529" class="cls-4" transform="translate(2 7)" d="M0 0h6v1H0z"/>
+    <path id="Rectangle_2530" data-name="Rectangle 2530" class="cls-4" transform="translate(2 9)" d="M0 0h4v1H0z"/>
+    <path id="Union_29" data-name="Union 29" class="cls-4" d="M-1701-5867h-11v-1h11v-12h-2v-1h3v14zm-12 0v-2h1v2z" transform="translate(1716 5883)"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="img_numbg" xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #ff5200;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_2794" data-name="Rectangle 2794" class="cls-1" width="38" height="38" transform="translate(0 0)"/>
+  <path id="Path_49117" data-name="Path 49117" class="cls-2" d="M139.8,394.242l-11.59,6.423a6.112,6.112,0,0,0-3.2,5.329v12.847a6.112,6.112,0,0,0,3.2,5.328l11.59,6.424a6.642,6.642,0,0,0,6.41,0l11.59-6.424a6.112,6.112,0,0,0,3.2-5.328V405.994a6.112,6.112,0,0,0-3.2-5.329l-11.59-6.423A6.642,6.642,0,0,0,139.8,394.242Z" transform="translate(-124 -393.418)"/>
+</svg>

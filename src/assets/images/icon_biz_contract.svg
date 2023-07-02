@@ -1,0 +1,13 @@
+<svg id="icon_list_contract" xmlns="http://www.w3.org/2000/svg" width="26" height="26">
+    <defs>
+        <style>
+            .cls-3{fill:#ff5200}
+        </style>
+    </defs>
+    <path id="Rectangle_2785" data-name="Rectangle 2785" style="fill:#fff" d="M0 0h26v26H0z"/>
+    <g id="data-check" transform="translate(1.492 .179)">
+        <path id="Path_48696" data-name="Path 48696" d="M12.229 27.3h-5.8A1.934 1.934 0 0 1 4.5 25.371V4.182A1.934 1.934 0 0 1 6.432 2.25h15.459a1.934 1.934 0 0 1 1.932 1.932v4.662h-1.932V4.182H6.432v21.189h5.8z" transform="translate(-5.992 -2.179)" style="fill:#666"/>
+        <path id="Path_49049" data-name="Path 49049" class="cls-3" d="M23.625 33.75a9 9 0 1 1 9-9 9 9 0 0 1-9 9zm0-15.75a6.75 6.75 0 1 0 6.75 6.75 6.75 6.75 0 0 0-6.75-6.75z" transform="translate(-8.992 -8.429)"/>
+        <path id="Path_49050" data-name="Path 49050" class="cls-3" d="M25.414 28.125 22.5 25.211V20.25h2.25v4.039l2.25 2.25z" transform="translate(-8.992 -8.429)"/>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30">
+    <defs>
+        <style>
+            .cls-2{fill:#0f44c1}
+        </style>
+    </defs>
+    <g id="btn_datalocomotionleft_pressed" transform="rotate(180 15 15)">
+        <g id="Ellipse_126" data-name="Ellipse 126" transform="rotate(-90 15 15)" style="fill:#fff;stroke:#dfe3e9">
+            <circle cx="15" cy="15" r="15" style="stroke:none"/>
+            <circle cx="15" cy="15" r="14.5" style="fill:none"/>
+        </g>
+        <g id="arrow" transform="rotate(-135 48.487 165.773)">
+            <path id="Rectangle_255" data-name="Rectangle 255" class="cls-2" transform="translate(175 244)" d="M0 0h2v8H0z"/>
+            <path id="Rectangle_256" data-name="Rectangle 256" class="cls-2" transform="rotate(90 -33.5 216.5)" d="M0 0h2v8H0z"/>
+        </g>
+    </g>
+</svg>

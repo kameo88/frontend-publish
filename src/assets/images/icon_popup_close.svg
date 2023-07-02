@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon_popupclose" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <style>
+            .cls-2{fill:#111;stroke:#111}.cls-3{stroke:none}.cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Rectangle_149" class="cls-2" transform="translate(6.707 6) rotate(45)">
+        <path d="M0 0H22V1H0z" class="cls-3"/>
+        <rect width="21" x=".5" y=".5" class="cls-4"/>
+    </g>
+    <g id="Rectangle_150" class="cls-2" transform="translate(22.263 6.707) rotate(135)">
+        <path d="M0 0H22V1H0z" class="cls-3"/>
+        <rect width="21" x=".5" y=".5" class="cls-4"/>
+    </g>
+</svg>

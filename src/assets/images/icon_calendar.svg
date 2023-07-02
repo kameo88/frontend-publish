@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon_calendar" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:#666}
+        </style>
+    </defs>
+    <path id="Path_47183" d="M692.521 371.356v-1h-1v1h-8v-1h-1v1h-3v15h16v-15zm2 14h-14v-1h14zm-14-2v-11h2v1h1v-1h8v1h1v-1h2v11z" class="cls-2" transform="translate(-677.521 -368.356)"/>
+    <path id="Path_47184" d="M685.021 375.356a1.5 1.5 0 1 0 1.5 1.5 1.5 1.5 0 0 0-1.5-1.5zm0 2a.5.5 0 1 1 .5-.5.5.5 0 0 1-.5.5z" class="cls-2" transform="translate(-677.521 -368.356)"/>
+    <path id="Path_47185" d="M685.021 379.356a1.5 1.5 0 1 0 1.5 1.5 1.5 1.5 0 0 0-1.5-1.5zm0 2a.5.5 0 1 1 .5-.5.5.5 0 0 1-.5.5z" class="cls-2" transform="translate(-677.521 -368.356)"/>
+    <path id="Path_47186" d="M690.021 375.356a1.5 1.5 0 1 0 1.5 1.5 1.5 1.5 0 0 0-1.5-1.5zm0 2a.5.5 0 1 1 .5-.5.5.5 0 0 1-.5.5z" class="cls-2" transform="translate(-677.521 -368.356)"/>
+    <path id="Path_47187" d="M690.021 379.356a1.5 1.5 0 1 0 1.5 1.5 1.5 1.5 0 0 0-1.5-1.5zm0 2a.5.5 0 1 1 .5-.5.5.5 0 0 1-.5.5z" class="cls-2" transform="translate(-677.521 -368.356)"/>
+</svg>

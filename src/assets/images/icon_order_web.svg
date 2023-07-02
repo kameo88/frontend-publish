@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40">
+    <defs>
+        <style>
+            .cls-4{fill:#ff5200}
+        </style>
+    </defs>
+    <g id="img_title_website" transform="translate(-180 -540)">
+        <path id="Path_49022" data-name="Path 49022" d="m202.337 578.452-17.639-.087v-22.913h30v9.369" transform="translate(-3.697 -6.452)" style="stroke-width:2px;stroke:#ff5200;fill:none"/>
+        <g id="Rectangle_2781" data-name="Rectangle 2781" style="stroke:#ff5200;fill:#fff">
+            <path style="stroke:none" d="M0 0h30v2H0z" transform="translate(181 554)"/>
+            <path style="fill:none" d="M.5.5h29v1H.5z" transform="translate(181 554)"/>
+        </g>
+        <path id="Path_49024" data-name="Path 49024" class="cls-4" d="M2.779-3.646 4.1-10.038h2.584L4.124 0H1.879l-1.9-6.318L-1.925 0h-2.236l-2.56-10.038h2.588l1.308 6.383 1.837-6.383H.951z" transform="translate(209 573)"/>
+        <path id="Rectangle_2782" data-name="Rectangle 2782" class="cls-4" transform="translate(214 567)" d="M0 0h3v2H0z"/>
+        <path id="Rectangle_2783" data-name="Rectangle 2783" class="cls-4" transform="translate(201 567)" d="M0 0h3v2H0z"/>
+    </g>
+</svg>

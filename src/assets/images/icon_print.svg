@@ -1,0 +1,21 @@
+<svg id="icon_print_normal" xmlns="http://www.w3.org/2000/svg" width="18" height="18">
+    <defs>
+        <style>
+            .cls-2,.cls-5{fill:none}.cls-2{stroke:#111}.cls-3{fill:#111}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Rectangle_105" data-name="Rectangle 105" class="cls-2">
+        <path class="cls-4" d="M0 0h18v10H0z" transform="translate(0 8)"/>
+        <path class="cls-5" d="M.5.5h17v9H.5z" transform="translate(0 8)"/>
+    </g>
+    <path id="Rectangle_2650" data-name="Rectangle 2650" class="cls-3" transform="translate(3 15)" d="M0 0h12v1H0z"/>
+    <circle id="Ellipse_487" data-name="Ellipse 487" class="cls-3" cx="1" cy="1" r="1" transform="translate(10 12)"/>
+    <circle id="Ellipse_488" data-name="Ellipse 488" class="cls-3" cx="1" cy="1" r="1" transform="translate(13 12)"/>
+    <g id="Rectangle_2651" data-name="Rectangle 2651" class="cls-2">
+        <path class="cls-4" d="M0 0h12v9H0z" transform="translate(3)"/>
+        <path class="cls-5" d="M.5.5h11v8H.5z" transform="translate(3)"/>
+    </g>
+    <path id="Rectangle_2652" data-name="Rectangle 2652" class="cls-3" transform="translate(5 2)" d="M0 0h7v1H0z"/>
+    <path id="Rectangle_2653" data-name="Rectangle 2653" class="cls-3" transform="translate(5 4)" d="M0 0h3v1H0z"/>
+    <path id="Rectangle_2654" data-name="Rectangle 2654" class="cls-3" transform="translate(5 6)" d="M0 0h5v1H0z"/>
+</svg>

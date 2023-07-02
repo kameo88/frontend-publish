@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <g id="img_title_orderinfo" transform="translate(-4.5 2)">
+    <rect id="hit" class="cls-1" width="40" height="40" transform="translate(4.5 -2)"/>
+    <path id="Path_48692" data-name="Path 48692" class="cls-2" d="M33.42,21.7,30.045,18.33a1.125,1.125,0,0,0-1.591,0L18,28.784V33.75h4.966L33.421,23.3a1.125,1.125,0,0,0,0-1.591ZM22.034,31.5H20.25V29.716l5.625-5.625,1.784,1.784Zm7.216-7.216L27.466,22.5l1.784-1.784L31.034,22.5Z" transform="translate(5)"/>
+    <path id="Path_48693" data-name="Path 48693" class="cls-2" d="M20.25,20.25v-4.5H22.5v4.5Z" transform="translate(5)"/>
+    <path id="Path_48694" data-name="Path 48694" class="cls-2" d="M15.75,20.25V13.5H18v6.75Z" transform="translate(5)"/>
+    <path id="Path_48695" data-name="Path 48695" class="cls-2" d="M11.25,20.25V9H13.5V20.25Z" transform="translate(5)"/>
+    <path id="Path_48696" data-name="Path 48696" class="cls-2" d="M13.5,33.75H6.75A2.252,2.252,0,0,1,4.5,31.5V4.5A2.252,2.252,0,0,1,6.75,2.25h18A2.252,2.252,0,0,1,27,4.5V15.75H24.75V4.5h-18v27H13.5Z" transform="translate(5)"/>
+  </g>
+</svg>

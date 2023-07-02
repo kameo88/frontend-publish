@@ -1,0 +1,45 @@
+# nodejs web application build & deploy
+# gitlab pipeline configuration
+
+
+variables:
+  artifact_id: backend-web-service
+  version: 0.0.1-SNAPSHOT
+  internal_was_ip: 172.23.45.134
+  app_user: appuser
+
+stages:
+  - build-job
+  - deploy-job
+
+build-job:
+  stage: build-job
+  before_script:
+    - echo "=============================================================="
+    - echo "pwd:::$(pwd)"
+    - echo "[(`date +%Y-%m-%d\ %H:%M:%S`)] start build"
+  script:
+    - npm install
+    - npm run build-dev
+    - cp -r ./dist/* /home/gitlab-runner/artifacts/backend-web-service-dist/
+  after_script:
+    - echo "[(`date +%Y-%m-%d\ %H:%M:%S`)] end build"
+  tags:
+    - backend-web-service
+  only:
+    - master
+
+deploy-job:
+  stage: deploy-job
+  before_script:
+    - echo "=============================================================="
+    - echo "pwd:::$(pwd)"
+    - echo "[(`date +%Y-%m-%d\ %H:%M:%S`)] start deploy"
+  script:
+    - sudo cp -r /home/gitlab-runner/artifacts/backend-web-service-dist/* /home/appuser/apache/htdocs/
+  after_script:
+    - echo "[(`date +%Y-%m-%d\ %H:%M:%S`)] end deploy"
+  tags:
+    - backend-web-service
+  only:
+    - master

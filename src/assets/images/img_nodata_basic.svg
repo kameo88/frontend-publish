@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon_nodata" width="60" height="63" viewBox="0 0 60 63">
+    <defs>
+        <filter id="Polygon_39" width="58" height="62" x="1" y="1" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur" stdDeviation="2"/>
+            <feFlood flood-color="#c6cdd4" flood-opacity=".302"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-3{fill:#a3aeb9}
+        </style>
+    </defs>
+    <g filter="url(#Polygon_39)" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="Polygon_39-2" fill="#fff" stroke="none">
+            <path d="M33.932 45.5H16.068c-2.017 0-3.87-1.101-4.832-2.874l-9.24-17c-.893-1.644-.893-3.608 0-5.252l9.24-17C12.199 1.6 14.05.5 16.068.5h17.864c2.017 0 3.87 1.101 4.832 2.874l9.24 17c.893 1.644.893 3.608 0 5.252l-9.24 17C37.801 44.4 35.95 45.5 33.932 45.5z" transform="translate(7 55) rotate(-90)"/>
+            <path fill="#d8dadb" d="M16.068 1c-1.834 0-3.517 1.001-4.393 2.612l-9.24 17c-.812 1.495-.812 3.28 0 4.776l9.24 17C12.55 43.999 14.234 45 16.068 45h17.864c1.834 0 3.517-1.001 4.393-2.612l9.24-17c.812-1.495.812-3.28 0-4.776l-9.24-17C37.45 2.001 35.766 1 33.932 1H16.068m0-1h17.864c2.199 0 4.222 1.203 5.272 3.135l9.239 17c.97 1.787.97 3.943 0 5.73l-9.24 17C38.154 44.797 36.132 46 33.933 46H16.068c-2.199 0-4.222-1.203-5.272-3.135l-9.239-17c-.97-1.787-.97-3.943 0-5.73l9.24-17C11.846 1.203 13.868 0 16.067 0z" transform="translate(7 55) rotate(-90)"/>
+        </g>
+    </g>
+    <path id="Rectangle_2294" d="M0 0H5V16H0z" class="cls-3" transform="translate(28 18)"/>
+    <path id="Rectangle_2295" d="M0 0H5V5H0z" class="cls-3" transform="translate(28 37)"/>
+</svg>

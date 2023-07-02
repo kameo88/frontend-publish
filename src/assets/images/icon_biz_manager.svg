@@ -1,0 +1,14 @@
+<svg id="icon_list_responsibility" xmlns="http://www.w3.org/2000/svg" width="26" height="26">
+    <defs>
+        <style>
+            .cls-2{fill:#666}.cls-3{fill:#ff5200}
+        </style>
+    </defs>
+    <g id="user-data" transform="translate(-1.25 -.475)">
+        <path id="Path_49030" data-name="Path 49030" class="cls-2" d="M31.5 9h1.918v7.672H31.5z" transform="translate(-6.316 -2.498)"/>
+        <path id="Path_49031" data-name="Path 49031" class="cls-2" d="M25.875 5.625h1.918v10.549h-1.918z" transform="translate(-5.486 -2)"/>
+        <path id="Path_49032" data-name="Path 49032" class="cls-2" d="M20.25 11.25h1.918V17H20.25z" transform="translate(-4.656 -2.83)"/>
+        <path id="Path_49033" data-name="Path 49033" class="cls-3" d="M15.676 29.27h-1.918v-3.1a2.88 2.88 0 0 0-2.877-2.877H7.045a2.88 2.88 0 0 0-2.877 2.877v3.1H2.25v-3.1a4.8 4.8 0 0 1 4.795-4.795h3.836a4.8 4.8 0 0 1 4.795 4.795z" transform="translate(-1 -6.324)"/>
+        <path id="Path_49034" data-name="Path 49034" class="cls-3" d="M9.295 9.793a2.877 2.877 0 1 1-2.877 2.877 2.877 2.877 0 0 1 2.877-2.877m0-1.918a4.795 4.795 0 1 0 4.795 4.795 4.795 4.795 0 0 0-4.795-4.795z" transform="translate(-1.332 -4.332)"/>
+    </g>
+</svg>
